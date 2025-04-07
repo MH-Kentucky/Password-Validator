@@ -1,3 +1,6 @@
+# Password-Validator
+This will create a password with a set of restrictions.
+Tara adding function to print out parameters.
 This is a partner project to create a .py file that asks a user to create a password with a set of restrictions. Sample output below.
 
 Expected sample output:
@@ -36,3 +39,4 @@ Please enter a password that conforms to the above restrictions:
 
 Success!
 (program end)
+
